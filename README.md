@@ -6,7 +6,7 @@
   
   
 
-  ⭐ Stats
+  <h2>⭐ Stats</h2>
   <div>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosugyeong&show_icons=true&theme=radical)
@@ -15,7 +15,7 @@
   
   #
   
-  🔨 Stack
+  <h2>🔨 Stack</h2>
   
 <div>
   <br>
